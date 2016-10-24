@@ -1,0 +1,1 @@
+C:\controls\controls\controls.csproj;x86
